@@ -1,5 +1,5 @@
-pip install joblib
-pip install pandas numpy scikit-learn
+!pip install joblib
+!pip install pandas numpy scikit-learn
 
 import streamlit as st
 import joblib
